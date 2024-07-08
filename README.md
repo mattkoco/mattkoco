@@ -1,4 +1,11 @@
-<h2 align="left"> About me </h2>
+# ❓ About me ❓
+
+- Linux User 🐧
+- Cyber Security 💻🔒
+- Capture the Flag competitor 🚩
+- Baltimore, Maryland 📍
+
+# 🏆 Accomplishments 🏆
 
 - Cybermaryland 2023 Runner Up 🥈
   
@@ -28,4 +35,3 @@
 
 Picture pending???
   
-- ***Focus in Linux system management and CTF***
