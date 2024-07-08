@@ -8,8 +8,11 @@
 
 <img src="https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd" alt="LBCSI Sword and Shield Logo" width="275" height="400" />
 
+# 📮 Contact Me 📞
 
-
+💻 Discord: kocorowski
+📸 Instagram: matt.koco
+📝 Email: matthewkocorowski@gmail.com
 
 # 🏆 Accomplishments 🏆
 
@@ -43,4 +46,3 @@
   > Team _Mac Address Layer One_: **Cisco** - Billy Nicholson, ![Ari Rogozin](https://github.com/Rus1130) // **Windows** - ![Connor Counselman](https://github.com/ConnorC455), Christian Tony // **Linux**: ***Matthew Kocorowski***, ![Ryan Wachter](https://github.com/rcwachter)
 
 
-  
