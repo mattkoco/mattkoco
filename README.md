@@ -6,7 +6,7 @@
 - Linux User 🐧
 - Cyber Security 💻🔒
 - Capture the Flag competitor 🚩
-- ![Loyola Blakefield Cyber Science Informatics](https://lbc2.org/lbcsi/) (LBCSI) 📚
+- [Loyola Blakefield Cyber Science Informatics](https://lbc2.org/lbcsi/) (LBCSI) 📚
 
 <img src="https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd" alt="LBCSI Sword and Shield Logo" width="275" height="400" />
 
