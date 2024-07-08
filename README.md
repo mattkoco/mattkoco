@@ -32,6 +32,8 @@
   > Team Layer 8 (left to right): ![Connor Counselman](https://github.com/ConnorC455), Emmett Omron, ***Matthew Kocorowski***
 
 - Placed top 60 in CyPat XVI 🐧
+- Picture pending
+  > Team Mac Address Layer One: Cisco - Billy Nicholson, Ari Rogozin // Windows - ![Connor Counselman](https://github.com/ConnorC455), Christian Tony // Linux: ***Matthew Kocorowski***, ![Ryan Wachter](https://github.com/rcwachter)
 
-Picture pending???
+
   
