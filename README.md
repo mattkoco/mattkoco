@@ -5,6 +5,8 @@
 - Capture the Flag competitor 🚩
 - Baltimore, Maryland 📍
 
+![LBCSI Sword and Shield Logo](https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd)
+
 # 🏆 Accomplishments 🏆
 
 - Cybermaryland 2023 Runner Up 🥈
