@@ -8,6 +8,10 @@
 
 <img src="https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd" alt="LBCSI Sword and Shield Logo" width="275" height="400" />
 
+<img src="https://raw.githubusercontent.com/mattkoco/mattkoco/output/snake.svg" alt="Snake animation" />
+
+
+
 # 🏆 Accomplishments 🏆
 
 - Cybermaryland 2023 Runner Up 🥈
