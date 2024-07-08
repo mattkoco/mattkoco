@@ -11,7 +11,9 @@
 # 📮 Contact Me 📞
 
 💻 Discord: kocorowski
+
 📸 Instagram: matt.koco
+
 📝 Email: matthewkocorowski@gmail.com
 
 # 🏆 Accomplishments 🏆
