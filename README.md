@@ -33,7 +33,7 @@
 
 - Placed top 60 in CyPat XVI 🐧
 - Picture pending
-  > Team Mac Address Layer One: Cisco - Billy Nicholson, Ari Rogozin // Windows - ![Connor Counselman](https://github.com/ConnorC455), Christian Tony // Linux: ***Matthew Kocorowski***, ![Ryan Wachter](https://github.com/rcwachter)
+  > Team _Mac Address Layer One_: **Cisco** - Billy Nicholson, Ari Rogozin // **Windows** - ![Connor Counselman](https://github.com/ConnorC455), Christian Tony // **Linux**: ***Matthew Kocorowski***, ![Ryan Wachter](https://github.com/rcwachter)
 
 
   
