@@ -4,7 +4,7 @@
 - Cyber Security 💻🔒
 - Capture the Flag competitor 🚩
 - Baltimore, Maryland 📍
-- Loyola Blakefield Cyber Science Informatics
+- Loyola Blakefield Cyber Science Informatics 📚 
 
 <img src="https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd" alt="LBCSI Sword and Shield Logo" width="275" height="400" />
 
