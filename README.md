@@ -4,7 +4,7 @@
   
   ![Screenshot 2024-07-08 at 10-29-43 Maryland Cyber Chalenge 2023 Loyola Blakefield Flickr](https://github.com/mattkoco/mattkoco/assets/108554371/eb96998a-85d2-4b6a-923a-b97a01301435)
 
-  > Team Peptar (left to right): Kai Cooke, Connor Counselman, Ryan Wachter, ***Matthew Kocorowski***
+  > Team Peptar (left to right): Kai Cooke, ![Connor Counselman](https://github.com/ConnorC455), Ryan Wachter, ***Matthew Kocorowski***
 
 - CHCTF 2024 Winner 🥇
 
