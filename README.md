@@ -48,7 +48,7 @@
   
   ![rtarflayer8](https://github.com/mattkoco/mattkoco/assets/108554371/585b3aa7-0e84-4963-960b-8a54c321f06c)
 
-  > Team Layer 8 (left to right): [Connor Counselman](https://github.com/ConnorC455), Emmett Omron, ***Matthew Kocorowski***
+  > Team Layer 8 (left to right): [Connor Counselman](https://github.com/ConnorC455), [Emmett Omron](https://github.com/emomron2025), ***Matthew Kocorowski***
 
 - Placed top 60 in Cyber Patriot XVI 🐧
   
