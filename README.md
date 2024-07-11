@@ -9,7 +9,6 @@
 - [Loyola Blakefield Cyber Science Informatics](https://lbc2.org/lbcsi/) (LBCSI) 📚
 
 <img src="https://github.com/mattkoco/mattkoco/assets/108554371/6a3a9ac1-003d-418e-8c8a-096f719e29cd" alt="LBCSI Sword and Shield Logo" width="275" height="400" />
-<img src="https://github.com/mattkoco/mattkoco/assets/108554371/bf81466e-4281-45cb-8182-7ae76f0fb0cc" alt="Maryland Logo" />
 
 
 
