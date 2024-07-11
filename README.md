@@ -52,7 +52,7 @@
 
 - Placed top 60 in Cyber Patriot XVI 🐧
   
-  - Picture pending
+  - Picture pending 
   
   > Team _Mac Address Layer One_: **Cisco** - Billy Nicholson, [Ari Rogozin](https://github.com/Rus1130) // **Windows** - [Connor Counselman](https://github.com/ConnorC455), [Christian Tony](https://github.com/c0demilk) // **Linux**: ***Matthew Kocorowski***, [Ryan Wachter](https://github.com/rcwachter)
 
