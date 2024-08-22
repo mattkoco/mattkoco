@@ -57,4 +57,10 @@
   
   > Team _Mac Address Layer One_: **Cisco** - Billy Nicholson, [Ari Rogozin](https://github.com/Rus1130) // **Windows** - [Connor Counselman](https://github.com/ConnorC455), [Christian Tony](https://github.com/c0demilk) // **Linux**: ***Matthew Kocorowski***, [Ryan Wachter](https://github.com/rcwachter)
 
+- Me on Thai RTARF national news 📰
+
+  ![image](https://github.com/user-attachments/assets/be926534-9ef4-4a03-80eb-4bc033a8ca74)
+
+  > Its on Thai TV channel 5 HD
+
 
