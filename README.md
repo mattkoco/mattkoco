@@ -1,10 +1,7 @@
 # ❓ About me ❓
 
 - Highschool Junior (11th grade) 🎓
-- 16 y/o 🎂
 - Baltimore, Maryland 📍
-- Linux User 🐧
-- Cyber Security 💻🔒
 - [Capture the Flag](https://github.com/mattkoco/Sisyphus/tree/main) competitor 🚩
 - [Loyola Blakefield Cyber Science Informatics](https://lbc2.org/lbcsi/) (LBCSI) 📚
 
