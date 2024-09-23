@@ -61,6 +61,6 @@
 
   ![image](https://github.com/user-attachments/assets/be926534-9ef4-4a03-80eb-4bc033a8ca74)
 
-  > Its on Thai TV channel 5 HD
+  > From: Thai TV channel 5 HD
 
 
