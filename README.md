@@ -64,4 +64,9 @@
 
   > From: Thai TV channel 5 HD
 
+- Qualified for CyberPatriot XVII National Finals
+  
+  ![1738964285804](https://github.com/user-attachments/assets/fcbbf6c7-7ce8-4c1e-93ee-9f43a0de8f67)
+
+  > Left to Right: [Billy Nicholson](https://www.linkedin.com/in/billy-nicholson-92b58b304/), [Emmett Omron](https://github.com/emomron2025), [Connor Counselman](https://github.com/ConnorC455), ***Me***, [Patrick Dishon](https://github.com/pwdishon), [Casey Nazelrod](https://www.linkedin.com/in/casey-nazelrod/)
 
