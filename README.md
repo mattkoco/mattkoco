@@ -69,5 +69,5 @@
   ![image](https://github.com/user-attachments/assets/4c931b44-37b4-4dbe-8c12-c72e110804ce)
 
 
-  > Left to Right: [Billy Nicholson](https://www.linkedin.com/in/billy-nicholson-92b58b304/), [Emmett Omron](https://github.com/emomron2025), [Connor Counselman](https://github.com/ConnorC455), ***Me***, [Patrick Dishon](https://github.com/pwdishon), [Casey Nazelrod](https://www.linkedin.com/in/casey-nazelrod/)
+  > In no particular order: [Billy Nicholson](https://www.linkedin.com/in/billy-nicholson-92b58b304/), [Emmett Omron](https://github.com/emomron2025), [Connor Counselman](https://github.com/ConnorC455), ***Me***, [Patrick Dishon](https://github.com/pwdishon), [Casey Nazelrod](https://www.linkedin.com/in/casey-nazelrod/)
 
