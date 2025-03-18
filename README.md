@@ -71,3 +71,8 @@
 
   > In no particular order: [Billy Nicholson](https://www.linkedin.com/in/billy-nicholson-92b58b304/), [Emmett Omron](https://github.com/emomron2025), [Connor Counselman](https://github.com/ConnorC455), ***Me***, [Patrick Dishon](https://github.com/pwdishon), [Casey Nazelrod](https://www.linkedin.com/in/casey-nazelrod/)
 
+- Placed 5th in the world (open division) overall in Cyberpatriot XVII
+  
+![image](https://github.com/user-attachments/assets/e48c6412-3af4-4652-ba50-93ea072a5d37)
+
+  > Photo by Jud McCrehin/ Air & Space Forces Association
