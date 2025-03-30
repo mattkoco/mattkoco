@@ -76,3 +76,10 @@
 ![image](https://github.com/user-attachments/assets/e48c6412-3af4-4652-ba50-93ea072a5d37)
 
   > Photo by Jud McCrehin/ Air & Space Forces Association
+
+- Organized / Ran LBC2 2025
+
+![image](https://github.com/user-attachments/assets/d3b8be1f-cbe6-4775-b01f-1768e0f355c0)
+
+  > Photo by Lucas Richardson
+
