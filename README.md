@@ -83,3 +83,11 @@
 
   > Photo by Lucas Richardson
 
+- RTARF CWC 2025 Winner // RTARF CWC 2025 4th overall for Individual Points
+
+![IMG_5057](https://github.com/user-attachments/assets/aed6d4ab-f520-4581-b3fd-7a013ff673d3)
+
+  > Picture taken by me
+
+
+  
