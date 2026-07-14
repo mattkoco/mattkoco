@@ -1,6 +1,5 @@
 # ❓ About me ❓
-
-- Highschool Senior (12th grade) 
+ 
 - Baltimore, Maryland 📍
 - [Capture the Flag](https://github.com/mattkoco/Sisyphus/tree/main) competitor 
 - [Loyola Blakefield Cyber Science Informatics](https://lbc2.org/lbcsi/) (LBCSI) Product Developer 
